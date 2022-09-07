@@ -61,7 +61,7 @@ int main(void)
     ixcStudent stu1(130924,"Nam");
     //ixcStudent stu2(12345,"Han");
     
-    stu1.ixcStudent(1111,"n");
+    //stu1.ixcStudent(1111,"n");
     //stu2.Study();
     //stu2.Study();
     //stu2.GetName();
